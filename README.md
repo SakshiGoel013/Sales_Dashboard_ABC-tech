@@ -50,13 +50,13 @@ Since, the decline in sales and profitability, the company must make informed de
 
   d) Create Line graph of Sales Qty over cy_date. This gives an idea of how the quantity of sale goods are going.
 
-  5) Create stacked bar chart showing Revenue based on the customers. This chart shows top 5 customers and give insights to whom the company needs to focus on.
+  e) Create stacked bar chart showing Revenue based on the customers. This chart shows top 5 customers and give insights to whom the company needs to focus on.
 
-  6) Create another stacked bar chart showing Revenue based on the Products and filter the chart on the basis of top 5 products. This chart gives insights of most selling products.
+  f) Create another stacked bar chart showing Revenue based on the Products and filter the chart on the basis of top 5 products. This chart gives insights of most selling products.
 
-  7) Create slicers for years, months and zone.
+  g) Create slicers for years, months and zone.
 
-  8) Insert a text column on the top of the page using the meas_market_name that will dynamically show title based on the selected filter.
+  h) Insert a text column on the top of the page using the meas_market_name that will dynamically show title based on the selected filter.
 
 
 # Insights
